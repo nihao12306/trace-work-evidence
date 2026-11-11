@@ -1,0 +1,20 @@
+[
+  {
+    "externalId": "demo-task-01",
+    "provider": "codex",
+    "scope": "task-2026-08-13",
+    "occurredOn": "2026-08-13",
+    "title": "整理信息流生产管理的验证路径",
+    "text": "把用户反馈、规则讨论和下一轮验证整理成一条可复查记录。",
+    "locator": "demo://codex/task/demo-task-01"
+  },
+  {
+    "externalId": "demo-doc-02",
+    "provider": "feishu",
+    "scope": "项目文档",
+    "occurredOn": "2026-08-12",
+    "title": "复查一份虚构的项目文档",
+    "text": "根据三条反馈调整了文档结构，暂时还没有把结果写成已确认事实。",
+    "locator": "demo://feishu/document/demo-doc-02"
+  }
+]
